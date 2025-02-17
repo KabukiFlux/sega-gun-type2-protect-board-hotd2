@@ -7,8 +7,8 @@ This repository contains the **KiCAD project files** for the **Gun II Input Prot
 - [Why](#why)
 - [Description](#-description)
 - [Schematics](#-schematics)
-- [Installation Guide](#-installation-guide-)
-- [Repository contents](#-repository-contents-)
+- [Installation Guide](#-installation-guide)
+- [Repository contents](#-repository-contents)
 
 ## Why?
 
