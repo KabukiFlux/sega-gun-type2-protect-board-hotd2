@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kabuki")(type "KiCad")(uri "${KIPRJMOD}/kabuki")(options "")(descr ""))
+)
